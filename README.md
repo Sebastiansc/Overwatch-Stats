@@ -20,7 +20,7 @@ Frontend | CSS
 ![splash](./docs/wireframes/splashPage.png)
 ![mainPage](./docs/wireframes/mainPage.png)
 ![profilePage](./docs/wireframes/profilePage.png)
-![championAnalytics](./docs/wireframes/championAnalytics.png)
+![championAnalytics](./docs/wireframes/ChampionAnalytics.png)
 ![leaderboard](./docs/wireframes/leaderboard.png)
 ![statistics](./docs/wireframes/statistics.png)
 ![summaryDetail](./docs/wireframes/summaryDetail.png)
@@ -31,9 +31,8 @@ Phase 1: Get started with the infrastructure (1 day)
 - Setting up react-redux cycle
 - Successfully do AJAX requests
 
-Phase 2: 
-Phase 3:
-Phase 4:
-Phase 5:
-Phase 6:
-Phase 7:
+Phase 2: Build player and game components (1day)
+Phase 3: Data into graphs (2 days)
+Phase 4: CSS (2 days)
+Phase 5: Polish
+Phase 6: Polish, Production README
