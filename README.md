@@ -32,7 +32,11 @@ Phase 1: Get started with the infrastructure (1 day)
 - Successfully do AJAX requests
 
 Phase 2: Build player and game components (1day)
+
 Phase 3: Data into graphs (2 days)
+
 Phase 4: CSS (2 days)
+
 Phase 5: Polish
+
 Phase 6: Polish, Production README
